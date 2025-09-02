@@ -10,22 +10,18 @@ sidebar:
   # Profile information
   name: Ross Cedric Nazareno
   tagline: University Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile_pic.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  email: nrosscedric@gmail.com
+  phone: 09686326314
+  citizenship: Filipino
+  website: Lagyan ko pag may project na
+  linkedin: Lagyan ko if meron na
+  github: 0ced0
+  gitlab: Lagyan ko if meron na
+  bitbucket: dunno what this is
+  twitter: Lagyan ko if meron na
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,150 +33,121 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Filipino
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
+    - idiom: Taglish
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Working out
       link:
 
 
-    - item: Snowboarding
+    - item: Web development
       link:
 
 
-    - item: Cooking
+    - item: Music
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    I am so sleeeeeppyyyyyyyyyyyyyyyyyy
+    As a proud academic achiever and a student leader, I put emphasis on developing 
+    my own skills. I see this as an investment which I will be able to use in my future employment.
+    By developing my own websites and applications through python, dart, flask, and other tools such as 
+    java script, css, and flutter, I aim to be highly effective as a full stack developer.
+
+    Moreover, studying in the College of Computer Studies at the LSPU main branch, I am able to study Machine
+    Learning and A.I. development to a enchanced intent with first class performance and intelligent systems.
+
+    To be part of a company means to work with a team, this is why I pursued to develop my team working 
+    and communication skills, by working as the former President of our college's student organization, I am 
+    highly efficient in conflict resolution and team management.
+    
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelor of Science in Computer Science
+    university: Laguna State Polytechnic University
+    time: 2023 - Present
     details: |
-      I am so sleeeeeppyyyyyyyyyyyyyyyyyy
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      I am so sleeeeeppyyyyyyyyyyyyyyyyyy
-        - Bullet point
-        - Bullet point
+        - Major in Intelligent Systems
 
 experiences:
   title: Experiences
   info:
   - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+    time: 2023 - 2024
+    company: Laguna State Polytechnic University - College of Computer Studies
     details: |
-      I am so sleeeeeppyyyyyyyyyyyyyyyyyy
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        Developed a library management system
+        - Created through C# and Win. Forms.
+        - Full Stack
+  - role: Backend Developer
+    time: 2024 - 2025
+    company: Laguna State Polytechnic University - College of Computer Studies
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I was the back end developer in charge of organizing the flow of data 
+      through the website and the development of the database.
+        - Back end logic focus
+        - SQLite affiliation
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: 
+    start: 
+    end: 
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
+      
+  - name: 
     start: 2019
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: 
+    link: 
+    tagline:
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: 
+    link: 
+    tagline:
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: 
+    link: 
+    tagline: 
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: 
+    link: 
+    tagline: 
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: 
+    link: 
+    tagline: 
 
 oss:
   title: OSS Contributions
