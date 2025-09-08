@@ -155,14 +155,14 @@ projects:
   intro: >
     
   assignments:
-    - description: "Create a python code that applies Propositional Logic in producing outputs"
     - title: "University Logic Rules System"
-      links: ""
+      description: "Create a python code that applies Propositional Logic in producing outputs"
+      link: ""
       tagline: >
         Project Deliverables:
-        [PDF Analysis Report]("assets/MP1/Analysis Report.pdf")
-        [Python Source Code]("assets/MP1/University Logic RUles-1.py")
-        [CSV Results]("assets/MP1/logic_results.csv")
+        <a href = "assets/MP1/Analysis Report.pdf">PDF Analysis Report</a>
+        <a href = "assets/MP1/University Logic RUles-1.py">Python Source Code</a>
+        <a href = "assets/MP1/logic_results.csv">CSV Results</a>
 
   # - title: 
   #   link: 
