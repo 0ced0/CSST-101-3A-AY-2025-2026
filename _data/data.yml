@@ -17,7 +17,7 @@ sidebar:
   phone: 09686326314
   citizenship: Filipino
   website: Lagyan ko pag may project na
-  linkedin: Lagyan ko if meron na
+  linkedin: www.linkedin.com/in/nazareno-ross-cedric-149824382
   github: 0ced0
   gitlab: Lagyan ko if meron na
   bitbucket: dunno what this is
@@ -150,18 +150,20 @@ certifications:
       November 25, 2024
       
 
-# projects:
-#   title: Projects
-#   intro: >
+projects:
+  title: Projects
+  intro: >
     
-#   assignments:
-#   - title: 
-#     link: 
-#     tagline:
+  assignments: Create a python code that applies Propositional Logic in producing outputs
+  - title: University Logic Rules System
+    link: assets/MP1/Analysis Report.pdf
+    link: assets/MP1/University Logic RUles-1.py
+    link: assets/MP1/logic_results.csv
+    tagline: Porject Deliverables
 
-#   - title: 
-#     link: 
-#     tagline:
+  - title: 
+    link: 
+    tagline:
 
 #   - title: 
 #     link: 
