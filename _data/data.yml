@@ -154,16 +154,19 @@ projects:
   title: Projects
   intro: >
     
-  assignments: Create a python code that applies Propositional Logic in producing outputs
-  - title: University Logic Rules System
-    link: assets/MP1/Analysis Report.pdf
-    link: assets/MP1/University Logic RUles-1.py
-    link: assets/MP1/logic_results.csv
-    tagline: Porject Deliverables
+  assignments:
+  - description: Create a python code that applies Propositional Logic in producing outputs
+     projects:
+      - title: University Logic Rules System
+      - links:
+        - assets/MP1/Analysis Report.pdf
+        - assets/MP1/University Logic RUles-1.py
+        - assets/MP1/logic_results.csv
+        tagline: Porject Deliverables
 
-  - title: 
-    link: 
-    tagline:
+  # - title: 
+  #   link: 
+  #   tagline:
 
 #   - title: 
 #     link: 
