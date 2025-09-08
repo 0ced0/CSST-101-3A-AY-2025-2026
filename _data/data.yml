@@ -161,7 +161,7 @@ projects:
       tagline: >
         Project Deliverables:
         <a href = "assets/MP1/Analysis Report.pdf">PDF Analysis Report</a>
-        <a href = "assets/MP1/University Logic RUles-1.py">Python Source Code</a>
+        <a href = "assets/MP1/University Logic Rules-1.py">Python Source Code</a>
         <a href = "assets/MP1/logic_results.csv">CSV Results</a>
 
   # - title: 
